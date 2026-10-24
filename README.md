@@ -2,8 +2,7 @@
 
 An App Lab app where people report local problems (potholes, garbage, broken streetlights, water leaks, drainage) and support the most urgent ones.
 
-Made by: [Your Name] | Class: [Your Class, School]
-App link: [Paste your App Lab link]
+App link: [Paste your App Lab link here]
 
 ## Problem
 Small public problems stay unfixed because there is no single place to report them or see which ones affect the most people.
@@ -19,7 +18,7 @@ Small public problems stay unfixed because there is no single place to report th
 - Report form (area + description)
 - Live stats: reported, resolved, most common problem
 - Filter issues by category
-- Me too voting
+- "Me too" voting
 - Resolve button protected by an admin PIN
 - Shared Data Table, so everyone sees the same reports
 
@@ -34,7 +33,7 @@ Small public problems stay unfixed because there is no single place to report th
 Variables, lists, objects, functions, loops, if/else, events, sorting, strings, Data Tables (createRecord, readRecords, updateRecord), multiple screens.
 
 ## Limitations
-- The admin PIN is only a demo, and a real app needs a proper login
+- The admin PIN is only a demo. A real app needs a proper login.
 - No photo upload or GPS (App Lab can't do these)
 - Reports are not verified
 
